@@ -1,0 +1,14 @@
+.search-form input {
+    font: inherit;
+    margin: 0 auto;
+    padding: 8px;
+    width: 250px;
+    border-radius: 8px;
+    border: transparent;
+    box-shadow: 7px 0px 16px -2px rgb(6, 41, 238);
+  }
+  
+  .search-form input:focus {
+    outline: transparent;
+    box-shadow: 10px 7px 16px 3px rgb(22, 243, 14);
+  }
